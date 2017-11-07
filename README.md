@@ -16,7 +16,7 @@ $ vagrant up
 ```
 ### site access
 
-(wp-template.dev)
+[wp-template.dev](wp-template.dev)
 
 
 ### Move to gulpfile directory
