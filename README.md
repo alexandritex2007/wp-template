@@ -39,6 +39,11 @@ $ gulp
 ```
 $ cd wp-template
 ```
+### ssh access
+```
+$ vagrant ssh
+```
+### backup
 ```
 $ wp db export /vagrant/wordpress.sql
 ```
