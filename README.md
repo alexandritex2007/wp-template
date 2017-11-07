@@ -33,9 +33,7 @@ $ npm install
 $ gulp
 ```
 
-# sql
-
-##backup
+# sql backup
 
 ### Move to project directory
 ```
