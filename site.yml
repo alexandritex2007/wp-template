@@ -15,7 +15,7 @@ cpus: 1
 #
 # Network Settings
 #
-hostname: wp-template.dev
+hostname: wp-template.test
 ip: 192.168.33.50
 
 #
