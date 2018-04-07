@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(function(){
 	// go_top
 	$('.gotop').css('opacity',0);
 	$('.gotop > a').click(function(){

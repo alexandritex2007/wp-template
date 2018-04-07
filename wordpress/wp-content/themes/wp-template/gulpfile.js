@@ -43,7 +43,7 @@ gulp.task('sass', function() {
 //browser sync
 gulp.task('server', function() {
     browser({
-        proxy: "http://wp-template.dev"
+        proxy: "http://wp-template.test"
     });
 });
 

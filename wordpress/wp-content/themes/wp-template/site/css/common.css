@@ -165,9 +165,16 @@ em {
   display: none;
 }
 
+.sponly {
+  display: none !important;
+}
+
 @media screen and (max-width: 640px) {
   .pconly {
     display: none !important;
+  }
+  .sponly {
+    display: block !important;
   }
   body {
     font-size: 14px;
